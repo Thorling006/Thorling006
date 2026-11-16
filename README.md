@@ -32,7 +32,7 @@ Mi enfoque combina **Software Engineering, AI Automation y QA Testing**: constru
 
 **Stack:** n8n · AI Chatbots · Agentic Workflows · Integración de APIs · EmailJS · Render.
 
-[**Ver código base →**](https://github.com/Thorling006/AgroSmart) · [Evolución del backend en Python / FastAPI — en pruebas](https://github.com/Thorling006/AgroPython)
+[**Ver código del proyecto colaborativo →**](https://github.com/atlasdigitalsv-max/AgroSmart-Corporation) · [Evolución del backend en Python / FastAPI — en pruebas](https://github.com/Thorling006/AgroPython)
 
 ### 02 · NovaTech-Solutions — Full-Stack + Cloud Deployment
 
